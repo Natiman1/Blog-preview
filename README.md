@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Natiman1/Blog-preview)
+- Live Site URL: [Add live site URL here](https://natiman1.github.io/Blog-preview/)
 
 ## My process
 
@@ -42,6 +42,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Blog preview](https://www.your-site.com)
+- Website - [Blog preview](https://natiman1.github.io/Blog-preview/)
 - Frontend Mentor - [@Natiman1](https://www.frontendmentor.io/profile/Natiman1)
 
